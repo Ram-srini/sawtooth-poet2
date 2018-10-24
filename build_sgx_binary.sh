@@ -14,6 +14,3 @@ make
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$WORK_DIR/build/bin
 cd $WORK_DIR/core
-
-
-
